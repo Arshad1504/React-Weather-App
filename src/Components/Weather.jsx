@@ -14,7 +14,6 @@ import rain_video from "../assets/rain_video.mp4";
 import drizzle_video from "../assets/drizzle_video.mp4";
 import cloud_video from "../assets/cloud_video.mp4";
 import clear_video from "../assets/clear_video.mp4";
-import black from "../assets/black.jpg";
 
 const allIcons = {
   "01d": clear_icon,
